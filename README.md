@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Deepa Tilwani.
-- 👀 I’m interested in neuroscience, artifical intelligence, machine learning and data analysis.
+- 👀 I’m interested in neuroscience, artificial intelligence, machine learning, and data analysis.
 - 🌱 I’m currently learning signal processing and deep learning.
-- 💞️ I’m looking to collaborate in neuroscience using artifical intelligence or deep learning, any medical research options using image clasification.
+- 💞️ I’m looking to collaborate in neuroscience using artificial intelligence or deep learning.
 - 📫 How to reach me --- dtilwani@mailbox.sc.edu
 
 <!---
